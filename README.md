@@ -50,8 +50,6 @@ Both data sources are public APIs; no credentials or local files needed. Full ru
 ## Files
 
 ```
-wind_forecasting.ipynb   the project: collection, cleaning, EDA, models, evaluation, tuning
-wind_forecasting.py      script export of the notebook
 local_audit.py           standalone leakage audit (reproduction + split experiments)
 requirements.txt
 ```
